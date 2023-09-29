@@ -57,3 +57,9 @@ We also use a [slack channel][10]! Click [here][11] for the invite link.
 [9]: https://github.com/sigstore/.github/blob/main/SECURITY.md
 [10]: https://sigstore.slack.com
 [11]: https://join.slack.com/t/sigstore/shared_invite/zt-mhs55zh0-XmY3bcfWn4XEyMqUUutbUQ
+
+## Additional Documentation
+
+The following file is found in this repository, and should be edited if changes are made as necessary:
+
+- **DEMO.md**. Software that demonstrates use of the project.
